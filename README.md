@@ -4,14 +4,14 @@
 
 Here they are : 
 
-* aaaa 
+* pets.py
 * bbbbb
 * ccccccc
 
 ## File Description
 
 ##### File 1 : pets.py
-  so this file contains two classes asjdggshkfghjkjhgfdsdfghjklkjhgfdfghjkliuytrertyuklkbvcxcvbnm
+  file ini berisi class pets dan animal dimana class animal berisi method untuk memproses sub-class (cat,dog,bird)
 
 ##### File 2 : 
 ##### File 3 :
@@ -25,9 +25,9 @@ Here they are :
 * Line ID : cahyaasrn
 
 ###### Member 2
-* Name    : x
-* NIM     : 130118
-* Line ID : 
+* Name    : Arva Adwitya Safarin
+* NIM     : 1301184445
+* Line ID : arvaadwitya
 
 ###### Member 3 
 * Name    : x
